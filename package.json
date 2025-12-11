@@ -11,9 +11,11 @@
 	"author": "alexdelgado <delgadoalex10@gmail.com>",
 	"type": "commonjs",
 	"devDependencies": {
+		"@types/node": "^25.0.0",
 		"typescript": "^5.9.3"
 	},
 	"dependencies": {
-		"undici": "^7.16.0"
+		"undici": "^7.16.0",
+		"undici-types": "^7.16.0"
 	}
 }
